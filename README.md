@@ -66,9 +66,9 @@ The global test automation and execution orchestration market is estimated at **
 
 ## 💻 Open-Source GitHub Projects
 
-Below are the premier open-source test runners, execution grids, and orchestration platforms sorted in descending order by GitHub Stars. Each repository includes a live stargazer badge linking directly to its stargazer community.
+Below are the premier open-source test runners, execution grids, and orchestration platforms sorted in descending order by GitHub_Stars. Each repository includes a live stargazer badge linking directly to its stargazer community.
 
-| Project | Stars | Focus & High-Throughput Capabilities |
+| Project | GitHub_Stars | Focus & High-Throughput Capabilities |
 |:---|:---|:---|
 | **[Playwright](https://github.com/microsoft/playwright)** | [![Playwright Stars](https://img.shields.io/github/stars/microsoft/playwright?style=social&color=white)](https://github.com/microsoft/playwright/stargazers) | **Next-gen browser automation & ultra-fast parallel test runner.** Apache-2.0, maintained by Microsoft. Built-in worker parallelism (`workers`), native CI matrix sharding (`--shard`), in-process test isolation, resource locking for concurrency, and unified blob report merging. |
 | **[Puppeteer](https://github.com/puppeteer/puppeteer)** | [![Puppeteer Stars](https://img.shields.io/github/stars/puppeteer/puppeteer?style=social&color=white)](https://github.com/puppeteer/puppeteer/stargazers) | **High-level Chrome DevTools Protocol automation engine.** Apache-2.0, maintained by Google. Powers headless browser automation, cluster pool managers (puppeteer-cluster), and high-throughput rendering or scraping engines. |
@@ -127,3 +127,12 @@ Your support keeps this directory fresh, accurate, and actively maintained! 🙌
 <p align="center">
   <b>Crafted with ❤️ for QA Engineers, Platform Architects, and DevOps Teams Scaling Infrastructure.</b>
 </p>
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-High-Throughput-Test-Execution-Engine&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-High-Throughput-Test-Execution-Engine_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-High-Throughput-Test-Execution-Engine_growth.svg">
+  </picture>
+</a>
